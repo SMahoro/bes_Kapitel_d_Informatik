@@ -1,0 +1,45 @@
+{
+    "name": "HTW_Migräne Erweiterung",
+    "short_name": "HTW-Migräne",
+    "start_url": "/index.html",
+    "id": "/index.html",
+    "display": "standalone",
+    "background_color": " #eab4f4 ",
+    "description": "Dein persönlicher Migräne Journal",
+    "lang": "de-DE",
+    "dir": "ltr",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+          "src": "/src/images/icons/icons.png",
+          "type": "image/png",
+          "sizes": "48x48"
+      },
+      {
+          "src": "/src/images/icons/icons.png",
+          "type": "image/png",
+          "sizes": "72x72"
+      },
+      {
+          "src": "/src/images/icons/icons.png",
+          "type": "image/png",
+          "sizes": "96x96"
+      },
+      {
+          "src": "/src/images/icons/icons.png",
+          "type": "image/png",
+          "sizes": "128x128"
+      },
+      {
+          "src": "/src/images/icons/icons.png",
+          "type": "image/png",
+          "sizes": "256x256"
+      },
+      {
+          "src": "/src/images/icons/icons.png",
+          "type": "image/png",
+          "sizes": "484x484"
+      }
+    ]
+  }
+  
